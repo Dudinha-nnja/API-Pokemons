@@ -1,6 +1,6 @@
 api = "https://pokeapi.co/api/v2/";
 
-endpoint = "pokemon?limit=1000";
+endpoint = "pokemon?limit=1";
 
 consulta = api + endpoint;
 //lista pokemons 
